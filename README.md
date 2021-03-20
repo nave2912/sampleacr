@@ -23,7 +23,7 @@ Commands :
 **list docker containers :** docker ps -a
 
 
-**start docker container : ** docker start <containerid>
+**start docker container :** docker start <containerid>
   
   
 **stop docker container :** docker stop <containerid>
